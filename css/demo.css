@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#water{
+	position: relative;
+	width: 90%;
+	margin: 0 auto;
+	outline: 1px solid #000000;
+}
+
+#water img{
+	transition:  all .5s;
+}
